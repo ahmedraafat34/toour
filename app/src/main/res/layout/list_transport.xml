@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/transimg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/navigationBarColor" />
+
+    <TextView
+        android:id="@+id/transnam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/navigationBarColor"
+        android:gravity="center_horizontal"
+
+        android:textSize="24sp"
+        android:textColor="@color/windowBackground" />
+
+    <TextView
+        android:id="@+id/transloc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/navigationBarColor"
+        android:gravity="center_horizontal"
+        android:textSize="20sp"
+        android:textColor="@color/windowBackground" />
+
+</LinearLayout>

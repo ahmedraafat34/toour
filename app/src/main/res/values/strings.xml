@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Tours</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="food">
+        <item> Mc Donald </item>
+        <item>  Burger king</item>
+        <item>   Cinnabon </item>
+        <item> Abo Tarek</item>
+        <item> KFC</item>
+        <item> Mall of arabia - hotline 19019</item>
+        <item> Mall of arabia - hotline 1991</item>
+        <item> Mall of arabia - hotline 19677</item>
+        <item> Mall of arabia - hotline 16720</item>
+        <item> Shobra - phone : 01015988898</item>
+        <item> Qasr l nile-phone : 0225775935</item>
+        <item> bab al louq-phone : 0223937849</item>
+        <item> sobhy kaber</item>
+    </string-array>
+    <string-array name="transport">
+        <item>Uper </item>
+        <item> careem</item>
+        <item>metro </item>
+        <item>Train</item>
+        <item>Swvl</item>
+        <item>taxi</item>
+        <item> Mobile Application</item>
+        <item> Mobile Application</item>
+        <item>Mobile Application</item>
+        <item> Giza</item>
+        <item>every where </item>
+        <item>every main street </item>
+
+    </string-array>
+    <string-array name="places">
+        <item>Cairo tower</item>
+        <item>pyramids</item>
+        <item>egyption musem</item>
+        <item>Khan l Khalely</item>
+        <item>Mohamed Ali Citadel</item>
+        <item>Moez Street</item>
+        <item> Zamalek</item>
+        <item> Pyramids</item>
+        <item>downtown</item>
+        <item> downtown</item>
+        <item> gamalya</item>
+        <item> l Qalaa</item>
+
+    </string-array>
+    <string-array name="nights">
+        <item>nile</item>
+        <item>SanintMark</item>
+        <item>Sound Light</item>
+        <item>UndrGround</item>
+        <item>La Pacha</item>
+        <item> zamalek</item>
+        <item> zamalek</item>
+        <item>pyramids</item>
+        <item> maddi</item>
+        <item>zamalek</item>
+    </string-array>
+    >
+</resources>
